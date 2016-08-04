@@ -1,13 +1,15 @@
 {
-  "name": "Portfolio",
+  "name": "Gulpfile",
   "version": "1.0.0",
-  "description": "My portfolio Developper Front-End",
+  "description": "Gulpfile use in my project",
   "keywords": [
     "html5",
     "css",
     "readability",
     "responsive design",
-    "sass"
+    "sass",
+    "jade",
+    "scss"
   ],
   "author": "Florian LE HEURTE",
   "license": "MIT",
